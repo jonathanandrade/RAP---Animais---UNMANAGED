@@ -1,0 +1,5 @@
+CLASS zbp_i_jarap_animal DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_jarap_animal.
+ENDCLASS.
+
+CLASS zbp_i_jarap_animal IMPLEMENTATION.
+ENDCLASS.
